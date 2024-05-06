@@ -5,7 +5,7 @@ In this project, for the given transaction data tables I implemented the expecte
 to that category. 
 4. Get Customer Information: Retrieves information about a specific customer by providing their 
 name as an argument. 
-5. Get Item Information: Retrieves informaƟon about a specific item by providing its name as an 
+5. Get Item Information: Retrieves information about a specific item by providing its name as an 
 argument. 
 6. Most expensive item: Finds the most expensive item. 
 7. Cheapest item: Finds the cheapest item. 
